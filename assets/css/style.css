@@ -208,3 +208,41 @@ body {
   border: none;
   color: #a04b91;
 }
+
+.btn-mobile {
+  display: none;
+}
+
+/* MOBILE RESPONSIVE   */
+
+@media screen and (max-width: 530px) {
+  .tema button {
+ display:none
+}
+.btn-mobile {
+    display: block;
+    margin-left: 270px;
+    cursor: pointer;
+    margin-bottom: 3px;
+    border-radius: 2rem;
+    padding: 2px;
+
+}
+
+.btn-mobile svg:hover {
+  
+  fill: #f6c8ed;
+}
+.dark .btn-mobile {
+    background: #1C1C1C ;
+    color: #FFFFFF;
+    border: 2px solid #F7F7F7;
+}
+
+.dark .btn-mobile:hover {
+  background-color: #ebe9ea;
+  border: none;
+  color: #a04b91;
+}
+}
+
