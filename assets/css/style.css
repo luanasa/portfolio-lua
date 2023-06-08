@@ -226,13 +226,10 @@ body {
     margin-bottom: 3px;
     border-radius: 2rem;
     padding: 2px;
+    background-color: #dfdddf;
 
 }
 
-.btn-mobile svg:hover {
-  
-  fill: #f6c8ed;
-}
 .dark .btn-mobile {
     background: #1C1C1C ;
     color: #FFFFFF;
