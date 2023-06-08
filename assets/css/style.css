@@ -189,9 +189,22 @@ body {
     border-radius: 100px;
     padding: 8px 16px;
     margin-left: 18px;
+    cursor: pointer;
+}
+
+.tema button:hover {
+  background-color: #b0adae;
+  border: none;
+  color: #f6c8ed;
 }
 .dark .tema button {
     background: #1C1C1C ;
     color: #FFFFFF;
     border: 2px solid #F7F7F7;
+}
+
+.dark .tema button:hover {
+  background-color: #ebe9ea;
+  border: none;
+  color: #a04b91;
 }
