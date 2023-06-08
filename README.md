@@ -1,3 +1,4 @@
-# My Portfolio  🤩 
+My CertifiCard 🤍
 
-![image](https://user-images.githubusercontent.com/38231334/167278626-c10cbd67-1363-4bb0-a8ed-f00ae4c38508.png)
+![frame_generic_light](https://github.com/luanasa/portfolio-lua/assets/38231334/15ead0b6-c5bd-405b-bab7-c5cfece47047)
+
