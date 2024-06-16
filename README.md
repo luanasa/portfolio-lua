@@ -1,4 +1,4 @@
-My CertifiCard 🤍
+My Projects 🤍
 
 ☁️ https://luanasa.github.io/portfolio-lua/index.html
 
